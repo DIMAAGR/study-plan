@@ -17,6 +17,7 @@ A lógica de programação é uma técnica que consiste em organizar e planejar 
 ### Nível 2 - Aprendendo a Programar
     
 - 0: [Motivacional - Já ta pensando em desistir? kkkkkkkkkkkkkkkkkkkk EU TMB!](https://www.youtube.com/watch?v=DUEhulMXLzg)
+
 (Depois que vc assistir isso) E é basicamente isso, desistir é normal, é sempre muita coisa para aprender e sempre vai ser em qualquer area, tódas as areas te forçam a aprender sempre e se manter atualizado, uma vez um grande programador (atual ele diga-se de passagem) uma vez disse: "Vc pode aprender tudo o que quiser, vc só não sabe quanto tempo vai levar" - DESCHAMPS, Felipe. Minha recomendação é, não desista, você consegue
 
 - 1: [O que é dart? (Vídeo mais tecnico)](https://www.youtube.com/watch?v=i7IzlVImHEc)
