@@ -7,8 +7,20 @@
 
 ### Nível 1 - First Steps
 
+- 0: [Motivacional com Micael Mota](https://www.youtube.com/watch?v=6RI7cxCvnA8&t)
 - 1: [Como Estudar Programação (Vídeo)](https://www.youtube.com/watch?v=_7mJDIFYe0o&t)
 
 A lógica de programação é uma técnica que consiste em organizar e planejar instruções para atingir um objetivo. É a forma como os programadores pensam e resolvem problemas, utilizando uma sequência lógica de comandos e instruções.
 - 2: [Lógica de Programação #1](https://www.youtube.com/watch?v=Ds1n6aHchRU)
-- 3: []()
+- 3: [Curso de Lógica de Programação (Assistir da Aula 1 até a 35)](https://www.youtube.com/watch?v=41ubXTEPFO0&list=PLucm8g_ezqNpYL-z-lutCuBplhx9aqkdd&index=1)
+
+### Nível 2 - Aprendendo a Programar
+    
+- 0: [Motivacional - Já ta pensando em desistir? kkkkkkkkkkkkkkkkkkkk EU TMB!](https://www.youtube.com/watch?v=DUEhulMXLzg)
+(Depois que vc assistir isso) E é basicamente isso, desistir é normal, é sempre muita coisa para aprender e sempre vai ser em qualquer area, tódas as areas te forçam a aprender sempre e se manter atualizado, uma vez um grande programador (atual ele diga-se de passagem) uma vez disse: "Vc pode aprender tudo o que quiser, vc só não sabe quanto tempo vai levar" - DESCHAMPS, Felipe. Minha recomendação é, não desista, você consegue
+
+- 1: [O que é dart? (Vídeo mais tecnico)](https://www.youtube.com/watch?v=i7IzlVImHEc)
+- 2: [Curso de Dart 80 vídeos](https://www.youtube.com/watch?v=Vz11rFFewkM&list=PLK5FPzMuRKlyiWZUUqea2Hmszhy9vUixJ)
+
+#### Atividades:
+
